@@ -97,4 +97,7 @@ main{
         margin-bottom: 1rem;
         text-align: center;
     }
+    #Count{
+        font-size: 2.5rem;
+    }
 }

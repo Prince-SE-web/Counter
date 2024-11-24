@@ -21,6 +21,7 @@ function decreaseCount(){
     --count;
     if(count<0){
         output.innerText = "ERROR";
+        count = 0;
     }
 
     else{
